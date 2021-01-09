@@ -29,7 +29,7 @@ h3 {
 .todo-input {
     width: 499px;
     background-position: 5px center;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-color: black;
     cursor: pointer;
     height: 40px;
     padding: 0 0 0 34px;
